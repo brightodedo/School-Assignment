@@ -1,2 +1,2 @@
 # School-Assignment
-Answer to the assignment in word.
+Answer to the question in the word document.
