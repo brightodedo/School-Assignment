@@ -1,0 +1,5 @@
+first_name,last_name,account_number,pin,False
+Elijah,Flurry,ef-12-5-6,56,False
+Benny,Odedo,bo-10-2-15,215,False
+United,States,us-12-21-19,2119,False
+Jfd,Djf,jd-6-10-4,104,True
